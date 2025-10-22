@@ -16,7 +16,7 @@ public class Lab1ActivityCPIT251 {
      */
     public static void main(String[] args) {
  
-        System.out.println("Testing gitHub");
+        System.out.println("Testing gitHub 2");
     }
     
 }
